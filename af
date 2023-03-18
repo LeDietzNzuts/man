@@ -177,4 +177,3 @@ CreditsTab:AddLabel("Credits:Fog5438")
     end
     OrionLib:Init()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeDietzNzuts/ahhhh/main/gahasg"))();
